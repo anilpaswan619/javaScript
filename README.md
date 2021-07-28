@@ -1,0 +1,2 @@
+# javaScript
+All about javaScript
