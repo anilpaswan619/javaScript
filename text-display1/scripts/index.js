@@ -1,5 +1,5 @@
 function getDescription(text) {
-    return text.substring(0,text.length);
+    return text.substring(0,text.length) + "...";
 
 }
 
