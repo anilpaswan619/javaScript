@@ -1,0 +1,11 @@
+html {
+    text-align: center;
+    margin-top: 15px;
+}
+button {
+    font-size : 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: olivedrab;
+    color:seashell;
+}
